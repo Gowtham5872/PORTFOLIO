@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a MERN Stack Developer.  
 
 ## 🔗 Live Demo  
-
+https://themerncraft.netlify.app/
 ## 📌 Features  
 - ✅ Responsive and modern UI  
 - ✅ Interactive sections for projects, skills, and experience  
